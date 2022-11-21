@@ -1,3 +1,4 @@
+pragma solidity ^0.6;
 contract banking
 {
     mapping(address=>uint) private user_account;
